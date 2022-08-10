@@ -129,7 +129,7 @@ div.section-grise2 {
     padding-top: 140px ;
     display: flex;
     justify-content: space-around;
-    
+    align-items: baseline;
 }
 
 div.sep {
@@ -191,3 +191,9 @@ table.col {
     display: inline-block;
 }
 
+.project {
+    padding-left: 15px;
+    width: 200px;
+    font-size: 11px;
+    text-align: center;
+}
