@@ -27,7 +27,7 @@ body {
 
 div.cover {
     position: relative;
-    background:url(resources/RESOURCES/cover_overlay.png) no-repeat center/100% 100% ,url(resources/resources/cover.jpg) no-repeat center/cover;
+    background:url(resources/RESOURCES/cover_overlay.png) no-repeat center/100% 100% ,url(resources/RESOURCES/cover.jpg) no-repeat center/cover;
     height: 360px;
 }
 
